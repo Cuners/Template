@@ -9,6 +9,8 @@
     <Grid>
         <StackPanel>
             <TextBlock Text="Мухаметзянов Марат 4337 2004 г" FontSize="20"/>
+            <Button x:Name="BnImport" Click="BnImport_Click">Импорт данных</Button>
+            <Button x:Name="BnExport" Click="BnExport_Click">Экспорт данных</Button>
         </StackPanel>
     </Grid>
 </Window>
