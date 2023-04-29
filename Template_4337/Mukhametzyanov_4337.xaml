@@ -11,6 +11,8 @@
             <TextBlock Text="Мухаметзянов Марат 4337 2004 г" FontSize="20"/>
             <Button x:Name="BnImport" Click="BnImport_Click">Импорт данных</Button>
             <Button x:Name="BnExport" Click="BnExport_Click">Экспорт данных</Button>
+            <Button x:Name="BnImportjson" Click="BnImportjson_Click">Импорт json</Button>
+            <Button x:Name="BnExportword" Click="BnExportword_Click">Экспорт word</Button>
         </StackPanel>
     </Grid>
 </Window>
